@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá 👋
 
-<!--
-**Allisson-Lima-Dev/Allisson-Lima-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Allisson Lima 👦🇧🇷
 
-Here are some ideas to get you started:
+Sou estudante de Análise e Desenvolvimento de Sistemas, e no momento estou em treinamento para Certificação Huawei HCIA-AI. 💻🏆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar as mudanças..
+
+### 🌌 "Só existe um êxito: a capacidade de levar a vida que se quer." 🌍
+
+- 📍 De São Luis-Ma 
+- 💻 Developer Front End [Conteúdo](https://www.youtube.com/channel/UCUotx52M57Y6U6JHwEkDXRg)
+
+Siga-me 👇🏼
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCUotx52M57Y6U6JHwEkDXRg)](https://www.youtube.com/channel/UCUotx52M57Y6U6JHwEkDXRg) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allisson-lima-da-costa-3382121b6/)](https://www.linkedin.com/in/allisson-lima-da-costa-3382121b6/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/allisson_lima25/)](https://www.instagram.com/allisson_lima25/) 
+
