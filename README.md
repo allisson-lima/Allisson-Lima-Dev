@@ -1,6 +1,17 @@
-# Olá 👋
+<span >
 
-Meu nome é Allisson Lima 👦🇧🇷
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" > Olá seja bem-vindo(a)!</h2>
+</span>
+<div align="center">
+<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+  
+</div>
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
+##  Meu nome é Allisson Lima <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>🇧🇷
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, e no momento estou em treinamento para Certificação Huawei HCIA-AI. 💻🏆
 
@@ -15,11 +26,21 @@ Siga-me 👇🏼
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCUotx52M57Y6U6JHwEkDXRg)](https://www.youtube.com/channel/UCUotx52M57Y6U6JHwEkDXRg) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allisson-lima-da-costa-3382121b6/)](https://www.linkedin.com/in/allisson-lima-da-costa-3382121b6/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/allisson_lima25/)](https://www.instagram.com/allisson_lima25/) 
 
+## 💻 Technologies & Tools
+
+
+  <div flex=row>
+ 
+ <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+</div> </br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allisson-Lima-Dev&show_icons=true&theme=tokyonight)
 
 
 
 
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allisson-Lima-Dev&show_icons=true&theme=tokyonight)
 
 
