@@ -16,6 +16,9 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 - 📍 De São Luis-Ma 
 - 💻 Developer Front End [Conteúdo](https://www.youtube.com/channel/UCUotx52M57Y6U6JHwEkDXRg)
+- Você pode acessar meu Portfólio que está em desenvolvimento: [Clique aqui](https://portfolio-allisson.netlify.app/)
+![img](https://scontent.ffor11-1.fna.fbcdn.net/v/t1.15752-9/200620197_811354236172062_6270087391256118680_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeFcGM69RJrl6F9i-V_WCPRbe1pbWyBELot7WltbIEQui0slZJkYNi4qqoqhMSAROTBXZmtAng-GHC_slVmV6xgV&_nc_ohc=aizmBo2hBDIAX-nqXlO&tn=3rOBlKkSnXV8joMM&_nc_ht=scontent.ffor11-1.fna&oh=10242451a43c6a1bd1eecd9e61538ab9&oe=60E6B830)
+
 
 Siga-me 👇🏼
 
