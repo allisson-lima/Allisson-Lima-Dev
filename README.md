@@ -32,7 +32,15 @@ Siga-me 👇🏼
  <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/React Native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+  <img src="https://img.shields.io/badge/-Typescript-181717?style=flat-square&logo=typescript" height="25"/>
+  <br>
+    <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_node.js.png"></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Next-181717?style=flat-square&logo=next" height="25"/>
+  <img src="https://img.shields.io/badge/-Chakra UI-181717?style=flat-square&logo=chakra" height="25"/>
+   <img src="https://img.shields.io/badge/-React Query-%23F7DF1E?style=flat-square&logo=node&logoColor=red" height="25"/>
+
 </div> </br>
 
 
