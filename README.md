@@ -1,47 +1,54 @@
-<span >
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" > Olá seja bem-vindo(a)!</h2>
-</span>
+###
+
+<p align="left">My name is Allisson.<br><br>Measuring programming progress by lines of code is like measuring aircraft construction progress in terms of weight.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🎸 I'm a guitarist musician<br>📚 I'm currently learning Invasion Techniques<br>🎯 Goals: Enhancing my skills to reach the next level of JS fluency<br>🎲 Fun fact: I'm very annoying for not giving up 😄</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" width="52" alt="bitbucket logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
+</div>
+
+###
+
 
   
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
- 
-##  Meu nome é Allisson Lima <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>🇧🇷
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, e no momento estou em treinamento para Certificação Huawei HCIA-AI. 💻🏆
-
-Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar as mudanças..
-
-### 🌌 "Só existe um êxito: a capacidade de levar a vida que se quer." 🌍
-
-- 📍 De São Luis-Ma 
-- 💻 Developer Front End [Conteúdo](https://www.youtube.com/channel/UCUotx52M57Y6U6JHwEkDXRg)
-- Você pode acessar meu Portfólio que está em desenvolvimento: [Clique aqui](https://portfolio-allisson.netlify.app/)
-![img](https://scontent.ffor11-1.fna.fbcdn.net/v/t1.15752-9/200620197_811354236172062_6270087391256118680_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeFcGM69RJrl6F9i-V_WCPRbe1pbWyBELot7WltbIEQui0slZJkYNi4qqoqhMSAROTBXZmtAng-GHC_slVmV6xgV&_nc_ohc=aizmBo2hBDIAX-nqXlO&tn=3rOBlKkSnXV8joMM&_nc_ht=scontent.ffor11-1.fna&oh=10242451a43c6a1bd1eecd9e61538ab9&oe=60E6B830)
-
-
-Siga-me 👇🏼
+Follow me 👇🏼
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCUotx52M57Y6U6JHwEkDXRg)](https://www.youtube.com/channel/UCUotx52M57Y6U6JHwEkDXRg) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allisson-lima-da-costa-3382121b6/)](https://www.linkedin.com/in/allisson-lima-da-costa-3382121b6/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/allisson_lima25/)](https://www.instagram.com/allisson_lima25/) 
 
-## 💻 Technologies & Tools
 
-
-  <div flex=row>
- 
- <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/React Native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
-  <img src="https://img.shields.io/badge/-Typescript-181717?style=flat-square&logo=typescript" height="25"/>
-  <br>
-    <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_node.js.png"></a>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Next-181717?style=flat-square&logo=next" height="25"/>
-  <img src="https://img.shields.io/badge/-Chakra UI-181717?style=flat-square&logo=chakra" height="25"/>
-   <img src="https://img.shields.io/badge/-React Query-%23F7DF1E?style=flat-square&logo=node&logoColor=red" height="25"/>
-
-</div> </br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allisson-Lima-Dev&show_icons=true&theme=tokyonight)
